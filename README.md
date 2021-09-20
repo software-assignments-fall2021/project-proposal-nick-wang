@@ -69,4 +69,4 @@ Users can backup their data for all four types of records by downloading a singl
 
 
 ### Scope
-This task needs massive front-end tasks, good visualization and animation will improve the app a lot. A little ambitious if want to implement exactly like what in the proposal, to be honest. **Six-people** group might be necessary. To act as a course assignment, **some functions that have a task check icon might need to be cut to reduce workload**.
+This task needs massive front-end tasks and UI design. Good visualization and animation will improve the app a lot. It might be a little ambitious if we want to implement all of the features stated above. To be honest, **a six-people** group might be necessary. In order to be reasonable as a one-semester course assignment, **some functions that have a task check icon might need to be cut off to reduce the workload in the future**.
